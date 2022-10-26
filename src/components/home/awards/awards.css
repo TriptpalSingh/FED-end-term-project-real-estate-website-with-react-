@@ -1,0 +1,35 @@
+.awards {
+  background-color: #acb6b5;
+  color: #fff;
+  text-align: center;
+}
+.awards .heading {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.awards .heading p {
+  color: #27ae60;
+}
+.awards .heading h1 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 400;
+}
+.awards .icon {
+  background-color: rgba(18, 41, 71,0.5) !important;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin: auto;
+  margin-top: 50px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4% 50%;
+  font-size: 32px;
+  color: #ffffff;
+}
+.awards h1 {
+  font-size: 50px;
+}
+.awards p {
+  color: grey;
+}
